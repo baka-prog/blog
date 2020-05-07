@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 你好！
 
-You can use the [editor on GitHub](https://github.com/baka-prog/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎你，朋友！
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
